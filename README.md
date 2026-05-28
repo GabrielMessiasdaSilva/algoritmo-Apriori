@@ -18,7 +18,7 @@ O **Apriori** é um algoritmo de mineração de dados que descobre padrões freq
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/apriori-fraude-ingressos.git
+git clone https://github.com/GabrielMessiasdaSilva/algoritmo-Apriori.git
 cd apriori-fraude-ingressos
 
 # Não há dependências externas!
@@ -66,10 +66,7 @@ python exemplos_praticos_apriori.py
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `apriori_fraude_ingressos.py` | Implementação completa do algoritmo com dados de exemplo |
-| `GUIA_APRIORI_FRAUDE.md` | Documentação teórica detalhada (10 seções) |
-| `exemplos_praticos_apriori.py` | 6 exemplos de casos de uso reais |
-| `README.md` | Este arquivo |
+| `main.py` | Implementação completa do algoritmo com dados de exemplo |
 
 ## 📊 Conceitos Principais
 
@@ -219,8 +216,7 @@ Contribuições são bem-vindas! Por favor:
 
 ## ❓ Dúvidas?
 
-Confira os exemplos em `exemplos_praticos_apriori.py` ou leia `GUIA_APRIORI_FRAUDE.md`.
 
 ---
 
-**Desenvolvido para detecção de fraude em vendas de ingressos** 🎯
+**Desenvolvido por Gabriel e Diogo** 🎯
